@@ -1,0 +1,54 @@
+html, body {
+    font-family: "Montserrat", sans-serif;
+    background-color: rgb(210, 229, 246);
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    justify-content: space-between;
+    padding: 1.1rem 5rem;
+    background: linear-gradient(180deg, #6fb4fd 0%, #5caafc 100%);
+    text-align: center;
+}
+
+.brand a {
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: 600;
+    color: #000000;
+}
+
+table{
+  text-align: center;
+}
+a{
+  text-decoration: none;
+  font-size: x-large;
+  color: rgb(0, 16, 0);
+  font-weight: bolder;
+}
+table{
+  width: 100%;
+}
+.PRACTICE{
+  padding-left: 100px;
+}
+label{
+  font-size: x-large;
+  font-weight: 400;
+}
+form{
+  text-align: center;
+}
+.send{
+  font-size: x-large;
+  color: rgb(0, 193, 0);
+}
+b{
+  font-size: 60px;
+}
